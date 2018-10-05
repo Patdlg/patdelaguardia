@@ -2,7 +2,7 @@
   "name": "patdelaguardia",
   "version": "1.0.0",
   "description": "",
-  "homepage": "https://patdlg.github.io/patdelaguardia/"
+  "homepage": "https://patdlg.github.io/patdelaguardia/",
   "main": "index.js",
   "dependencies": {
     "gh-pages": "^2.0.1",
@@ -10,7 +10,8 @@
   },
   "devDependencies": {},
   "scripts": {
-    "sass": "node-sass -w scss/ -o dis/css/ --recursive"
+    "sass": "node-sass -w scss/ -o dis/css/ --recursive",
+    "deploy": "gh-pages -d dist"
   },
   "author": "",
   "license": "MIT"
