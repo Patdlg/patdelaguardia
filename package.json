@@ -2,8 +2,10 @@
   "name": "patdelaguardia",
   "version": "1.0.0",
   "description": "",
+  "homepage": "https://patdlg.github.io/patdelaguardia/"
   "main": "index.js",
   "dependencies": {
+    "gh-pages": "^2.0.1",
     "node-sass": "^4.9.3"
   },
   "devDependencies": {},
