@@ -8,11 +8,12 @@
     "gh-pages": "^2.0.1",
     "node-sass": "^4.9.3"
   },
-  "devDependencies": {},
+  "devDependencies": {
   "scripts": {
     "sass": "node-sass -w scss/ -o dis/css/ --recursive",
     "deploy": "gh-pages -d dist"
   },
   "author": "",
   "license": "MIT"
+}
 }
