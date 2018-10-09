@@ -157,11 +157,12 @@ header {
   color: white; }
 
 .comp {
-  margin-bottom: -20px;
+margin-bottom: -15px;
 width: 60px;
+margin-left: 10px;
 }
 .code {
-margin-bottom: -20px;
+margin-top: 30px;
 width: 60px;
 float: right;
 }
